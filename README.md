@@ -6,7 +6,7 @@ The benchmarking suite is written in C++17 for high-performance sequence alignme
 
 ---
 
-## 🔬 Experiments Coverage
+## Experiments Coverage
 
 The suite performs multiple automated experiments tracking **Execution Time (ms)**, **Peak Memory (MB)**, and **Edit Distance (accuracy)** over varying DNA sequences.
 
@@ -25,7 +25,7 @@ Compares the standard Hirschberg partitioning (splitting exactly at the midpoint
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 Ensure you have the following installed on your system:
